@@ -10,8 +10,8 @@ class Paddle:
 
     def update_left(self):
         if self.actor.x - 4 > 0 + 48:
-            self.actor.x = self.actor.x - 4
+            self.actor.x = self.actor.x - 8
 
     def update_right(self):
         if self.actor.x + 4 < 640 - 48:
-            self.actor.x = self.actor.x + 4
+            self.actor.x = self.actor.x + 8
