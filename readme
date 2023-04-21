@@ -1,1 +1,17 @@
+Brickbreaker Python game by Denis and Alex from COMP1107
+Fanl project Ass#3
 
+
+Features
+    speed multiplier (by bounce)
+    sounds effects
+    in game timer (does nothing lapsed in sec.ms)
+    display score
+    game over 
+    ability to restart
+    difficulty adjusted bricks
+    small random glitch "sticky ball"
+Controls
+    two options "arow keys" or "a d"
+Game objective
+    knock all the bricks down and win the game/high score/watch that counter so youre not wasting your life
